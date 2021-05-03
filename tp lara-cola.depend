@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1619056263 source:c:\users\54115\documents\materias de programacion\2021\laboratorio de computacion ii\clases\tp lara-cola\main.cpp
+	<iostream>
+	"rlutil.h"
+	"Funciones.h"
+	"Prototipos.h"
+
+1619056045 c:\users\54115\documents\materias de programacion\2021\laboratorio de computacion ii\clases\tp lara-cola\funciones.h
+	"Prototipos.h"
+
+1619056431 c:\users\54115\documents\materias de programacion\2021\laboratorio de computacion ii\clases\tp lara-cola\prototipos.h
+
+1585439251 c:\users\54115\documents\materias de programacion\2021\laboratorio de computacion ii\clases\tp lara-cola\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
